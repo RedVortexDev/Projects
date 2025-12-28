@@ -1,6 +1,8 @@
 num = int(input("Enter a number: "))
 bit = int(input("Enter bit width: "))
 
+# professional string manipulation
+
 # Decimal to Hex
 hex_str = ""
 temp_num = num
